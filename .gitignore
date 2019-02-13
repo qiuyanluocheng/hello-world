@@ -1,3 +1,20 @@
+# customize
+**/target
+/demo.webdoc
+**/.idea
+
+**/*.iml
+**/*.bat
+
+.settings
+**/.settings
+
+.project
+**/.project
+
+.classpath
+**/.classpath
+
 # Compiled class file
 *.class
 
